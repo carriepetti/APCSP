@@ -9,7 +9,7 @@ body {
 
 /* Style the header */
 .header {
-  background-color: #f1f1f1;
+  background-color: #bfd8ff;
   padding: 20px;
   text-align: center;
 }
@@ -17,7 +17,7 @@ body {
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #003b96;
 }
 
 /* Style the topnav links */
